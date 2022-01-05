@@ -1,7 +1,6 @@
 using System;
 
-namespace AnalyseMeAPI.Models
-{
+namespace AnalyseMeAPI.Models {
     public class WeatherForecast {
         public DateTime Date { get; set; }
         public int TemperatureC { get; set; }

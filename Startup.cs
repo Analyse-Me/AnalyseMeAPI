@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -18,12 +19,11 @@ namespace AnalyseMeAPI {
         public Startup(IConfiguration configuration) {
             Configuration = configuration;
         }
+        public void ConfigureServices(IServiceCollection services) {
+            services.AddControllers();
+        }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
-            if (env.IsDevelopment()) {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "AnalyseMeAPI v1"));
-            }
+            app.UsePathBase(new PathString("/api"));
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseEndpoints(endpoints => {
