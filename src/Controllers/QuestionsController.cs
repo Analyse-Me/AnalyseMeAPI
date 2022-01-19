@@ -23,9 +23,29 @@ namespace AnalyseMeAPI.Controllers
             QuestionsService = new QuestionsService(client);
         }
 
-        [HttpGet("8values")]
-        public IEnumerable<Question<_8Values>> Get8Values() {
-            return QuestionsService.Get8Values();
+        [HttpGet("compass/en")]
+        public IEnumerable<Question<_Compass>> GetCompassEN() {
+            return QuestionsService.GetCompassEN();
+        }
+
+        [HttpGet("compass/pl")]
+        public IEnumerable<Question<_Compass>> GetCompassPL() {
+            return QuestionsService.GetCompassPL();
+        }
+
+        [HttpGet("8values/en")]
+        public IEnumerable<Question<_8Values>> Get8ValuesEN() {
+            return QuestionsService.Get8ValuesEN();
+        }
+
+        [HttpGet("8values/pl")]
+        public IEnumerable<Question<_8Values>> Get8ValuesPL() {
+            return QuestionsService.Get8ValuesPL();
+        }
+
+        [HttpGet("politicalideas/pl")]
+        public IEnumerable<Question<_Soulgraphy_PI>> GetPoliticalIdeasPL() {
+            return QuestionsService.GetPoliticalIdeasPL();
         }
     }
 }
