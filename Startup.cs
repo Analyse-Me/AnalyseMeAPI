@@ -28,11 +28,9 @@ namespace AnalyseMeAPI {
         }
         public void ConfigureServices(IServiceCollection services) {
             services.AddControllers();
-            services.Configure<DatabaseSettings>(
-            Configuration.GetSection(nameof(DatabaseSettings)));
-
-            services.AddSingleton<DatabaseSettings>(sp =>
-            sp.GetRequiredService<IOptions<DatabaseSettings>>().Value);
+            services.AddSingleton<IMongoClient, MongoClient>(s => {
+                return new MongoClient("");
+            });
 
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
