@@ -15,6 +15,9 @@
 
 # Mono auto generated files
 mono_crash.*
+appsettings.json
+
+Enviroments.cs
 
 # Build results
 [Dd]ebug/

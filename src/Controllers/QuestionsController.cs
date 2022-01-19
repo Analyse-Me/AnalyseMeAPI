@@ -21,9 +21,9 @@ namespace AnalyseMeAPI.Controllers
             QuestionsService = new QuestionsService();
         }
 
-        [HttpGet("{id}")]
-        public string Get() {
-            return QuestionsService.GetQuestion();
+        [HttpGet("8values")]
+        public IEnumerable<Question<_8Values>> Get8Values() {
+            return QuestionsService.Get8Values();
         }
     }
 }
