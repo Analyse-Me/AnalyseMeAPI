@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
+using MongoDB.Driver;
+
 using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
 
@@ -16,9 +18,9 @@ namespace AnalyseMeAPI.Controllers
         private readonly ILogger<QuestionsController> _logger;
         private readonly QuestionsService QuestionsService;
 
-        public QuestionsController(ILogger<QuestionsController> logger) {
+        public QuestionsController(ILogger<QuestionsController> logger, IMongoClient client) {
             _logger = logger;
-            QuestionsService = new QuestionsService();
+            QuestionsService = new QuestionsService(client);
         }
 
         [HttpGet("8values")]

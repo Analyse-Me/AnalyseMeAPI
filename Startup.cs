@@ -29,7 +29,8 @@ namespace AnalyseMeAPI {
         public void ConfigureServices(IServiceCollection services) {
             services.AddControllers();
             services.AddSingleton<IMongoClient, MongoClient>(s => {
-                return new MongoClient("");
+                var url = s.GetRequiredService<IConfiguration>()["DatabaseURL"];
+                return new MongoClient(url);
             });
 
         }

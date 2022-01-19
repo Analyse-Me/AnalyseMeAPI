@@ -19,8 +19,6 @@ namespace AnalyseMeAPI.Services {
         }
 
         public IEnumerable<Question<_8Values>> Get8Values() {
-            var client = new MongoClient("mongodb://mo1394_analyseme:LuMUFbL2YX7IO4aYehDr@mongo51.mydevil.net:27017/mo1394_analyseme");
-            
 
             return DB_8Values.Find(_ => true).ToList();
 
