@@ -10,8 +10,7 @@ using MongoDB.Driver;
 using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
 
-namespace AnalyseMeAPI.Controllers
-{
+namespace AnalyseMeAPI.Controllers {
     [ApiController]
     [Route("questions")]
     public class QuestionsController : ControllerBase {

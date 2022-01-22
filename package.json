@@ -1,0 +1,22 @@
+{
+  "name": "analysemeapi",
+  "version": "1.0.0",
+  "description": "Simple API for AnalyseMe project written in ASP .NET",
+  "main": "Startup.cs",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "dotnet watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Analyse-Me/AnalyseMeAPI.git"
+  },
+  "author": "Mateusz Słotwiński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Analyse-Me/AnalyseMeAPI/issues"
+  },
+  "homepage": "https://github.com/Analyse-Me/AnalyseMeAPI#readme"
+}
