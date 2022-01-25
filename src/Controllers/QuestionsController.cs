@@ -22,29 +22,37 @@ namespace AnalyseMeAPI.Controllers {
             QuestionsService = new QuestionsService(client);
         }
 
-        [HttpGet("compass/en")]
-        public IEnumerable<Question<_Compass>> GetCompassEN() {
-            return QuestionsService.GetCompassEN();
+        [HttpGet("political_compass")]
+        public IEnumerable<Question<_Compass>> GetCompass() {
+            return QuestionsService.GetCompass();
         }
 
-        [HttpGet("compass/pl")]
-        public IEnumerable<Question<_Compass>> GetCompassPL() {
-            return QuestionsService.GetCompassPL();
+        [HttpGet("8values")]
+        public IEnumerable<Question<_8Values>> Get8Values() {
+            return QuestionsService.Get8Values();
         }
 
-        [HttpGet("8values/en")]
-        public IEnumerable<Question<_8Values>> Get8ValuesEN() {
-            return QuestionsService.Get8ValuesEN();
+        [HttpGet("9axes")]
+        public IEnumerable<Question<_9Axes>> Get9Axes() {
+            return QuestionsService.Get9Axes();
         }
 
-        [HttpGet("8values/pl")]
-        public IEnumerable<Question<_8Values>> Get8ValuesPL() {
-            return QuestionsService.Get8ValuesPL();
+        [HttpGet("political_ideas")]
+        public IEnumerable<Question<_Soulgraphy_PI>> GetPoliticalIdeas() {
+            return QuestionsService.GetPoliticalIdeas();
         }
 
-        [HttpGet("politicalideas/pl")]
-        public IEnumerable<Question<_Soulgraphy_PI>> GetPoliticalIdeasPL() {
-            return QuestionsService.GetPoliticalIdeasPL();
+        [HttpGet("economic_freedom_analysis")]
+        public IEnumerable<Question<_Soulgraphy_EFA>> GetEconomicFreedomAnalysis() {
+            return QuestionsService.GetEconomicFreedomAnalysis();
+        }
+        [HttpGet("personal_freedom_analysis")]
+        public IEnumerable<Question<_Soulgraphy_PFA>> GetPersonalFreedomAnalysis() {
+            return QuestionsService.GetPersonalFreedomAnalysis();
+        }
+        [HttpGet("mypolitics")]
+        public IEnumerable<Question<_MyPolitics>> GetMyPolitics() {
+            return QuestionsService.GetMyPolitics();
         }
     }
 }

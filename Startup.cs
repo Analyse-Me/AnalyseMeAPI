@@ -18,8 +18,6 @@ using Microsoft.OpenApi.Models;
 using MongoDB.Driver;
 using Microsoft.Extensions.Options;
 
-using AnalyseMeAPI.Database;
-
 namespace AnalyseMeAPI {
     public class Startup {
         public IConfiguration Configuration { get; }
