@@ -17,10 +17,9 @@ namespace AnalyseMeAPI.Middlewares {
         request.EnableBuffering();
         var buffer = new byte[Convert.ToInt32(request.ContentLength)];
         await request.Body.ReadAsync(buffer, 0, buffer.Length);
-        //get body string here...
         var requestContent = Encoding.UTF8.GetString(buffer);
 
-        request.Body.Position = 0;  //rewinding the stream to 0
+        request.Body.Position = 0;
         await _next(httpContext);
 
     }

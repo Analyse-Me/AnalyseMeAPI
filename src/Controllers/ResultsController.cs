@@ -28,16 +28,40 @@ namespace AnalyseMeAPI.Controllers {
 
         [HttpGet]
         public string GetResults() {
-            return ResultsHelper.CreateID(12);
+            return "AAA";
         }
         
         [HttpPost("political_compass")]
         public string PushPoliticalCompass([FromBody] ResultRequest<_Compass> body) {
-            Console.WriteLine(body);
-            Console.WriteLine(body.quiz);
-            Console.WriteLine(body.results);
-            Console.WriteLine(body.results.econ);
             return ResultsService.PushPoliticalCompass(body);
+        }
+
+        [HttpPost("8values")]
+        public string Push8Values([FromBody] ResultRequest<_8Values> body) {
+            return ResultsService.Push8Values(body);
+        }
+
+        [HttpPost("9axes")]
+        public string Push9Axes([FromBody] ResultRequest<_9Axes> body) {
+            return ResultsService.Push9Axes(body);
+        }
+
+        [HttpPost("political_ideas")]
+        public string PushPoliticalIdeas([FromBody] ResultRequest<_Soulgraphy_PI> body) {
+            return ResultsService.PushPoliticalIdeas(body);
+        }
+
+        [HttpPost("economic_freedom_analysis")]
+        public string PushEconomicFreedomAnalysis([FromBody] ResultRequest<_Soulgraphy_EFA> body) {
+            return ResultsService.PushEconomicFreedomAnalysis(body);
+        }
+        [HttpPost("personal_freedom_analysis")]
+        public string PushPersonalFreedomAnalysis([FromBody] ResultRequest<_Soulgraphy_PFA> body) {
+            return ResultsService.PushPersonalFreedomAnalysis(body);
+        }
+        [HttpPost("mypolitics")]
+        public string PushMyPolitics([FromBody] ResultRequest<_MyPolitics> body) {
+            return ResultsService.PushMyPolitics(body);
         }
     }
 }

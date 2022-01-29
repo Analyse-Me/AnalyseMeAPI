@@ -26,14 +26,22 @@ namespace AnalyseMeAPI.Models {
     }
 
     public class Result<T> {
+        public Result(T results, string ID) {
+            this.results = results;
+            this.ID = ID;
+        }
+
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
+
+        [BsonElement("ID")]
+        public string ID { get; set; }
 
         // [BsonElement("user")]
         // public string question { get; set; }
 
         [BsonElement("results")]
-        public T effect { get; set; }
+        public T results { get; set; }
     }
 }
