@@ -3,28 +3,42 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
-
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-
-using MongoDB.Driver;
 using Microsoft.Extensions.Options;
 
-namespace AnalyseMeAPI {
-    public class Startup {
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Mvc;
+using MongoDB.Driver;
+
+using AnalyseMeAPI.Middlewares;
+
+namespace AnalyseMeAPI.Startup {
+
+    public class App {
+
         public IConfiguration Configuration { get; }
-        public Startup(IConfiguration configuration) {
+        public App(IConfiguration configuration) {
             Configuration = configuration;
         }
+
         public void ConfigureServices(IServiceCollection services) {
+            services.AddCors(options =>{
+                options.AddPolicy("CorsPolicy",
+                    builder => builder
+                        .AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+                        //.AllowCredentials());
+                });
+
             services.AddControllers();
             services.AddSingleton<IMongoClient, MongoClient>(s => {
                 var url = s.GetRequiredService<IConfiguration>()["DatabaseURL"];
@@ -35,6 +49,10 @@ namespace AnalyseMeAPI {
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
             app.UsePathBase(new PathString("/api"));
             app.UseHttpsRedirection();
+            app.UseCors("CorsPolicy");
+
+            app.UseMiddleware<CreateSession>();
+            
             app.UseRouting();
             app.UseEndpoints(endpoints => {
                 endpoints.MapControllers();

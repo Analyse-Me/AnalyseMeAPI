@@ -7,6 +7,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+using AnalyseMeAPI.Startup;
+
 namespace AnalyseMeAPI {
     public class Program {
         public static void Main(string[] args) {
@@ -17,7 +19,7 @@ namespace AnalyseMeAPI {
             Host
             .CreateDefaultBuilder(args)
             .ConfigureWebHostDefaults(webBuilder => {
-                webBuilder.UseStartup<Startup>();
+                webBuilder.UseStartup<App>();
             });
     }
 }
