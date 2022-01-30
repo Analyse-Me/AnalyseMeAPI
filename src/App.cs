@@ -22,41 +22,43 @@ using AnalyseMeAPI.Middlewares;
 
 namespace AnalyseMeAPI.Startup {
 
-    public class App {
+  public class App {
 
-        public IConfiguration Configuration { get; }
-        public App(IConfiguration configuration) {
-            Configuration = configuration;
-        }
-
-        public void ConfigureServices(IServiceCollection services) {
-            services.AddCors(options =>{
-                options.AddPolicy("CorsPolicy",
-                    builder => builder
-                        .AllowAnyOrigin()
-                        .AllowAnyMethod()
-                        .AllowAnyHeader());
-                        //.AllowCredentials());
-                });
-
-            services.AddControllers();
-            services.AddSingleton<IMongoClient, MongoClient>(s => {
-                var url = s.GetRequiredService<IConfiguration>()["DatabaseURL"];
-                return new MongoClient(url);
-            });
-
-        }
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
-            app.UsePathBase(new PathString("/api"));
-            app.UseHttpsRedirection();
-            app.UseCors("CorsPolicy");
-
-            app.UseMiddleware<CreateSession>();
-            
-            app.UseRouting();
-            app.UseEndpoints(endpoints => {
-                endpoints.MapControllers();
-            });
-        }
+    public IConfiguration Configuration {
+      get;
     }
+    public App(IConfiguration configuration) {
+      Configuration = configuration;
+    }
+
+    public void ConfigureServices(IServiceCollection services) {
+      services.AddCors(options => {
+        options.AddPolicy("CorsPolicy",
+          builder => builder
+          .AllowAnyOrigin()
+          .AllowAnyMethod()
+          .AllowAnyHeader());
+        //.AllowCredentials());
+      });
+
+      services.AddControllers();
+      services.AddSingleton < IMongoClient, MongoClient > (s => {
+        var url = s.GetRequiredService < IConfiguration > ()["DatabaseURL"];
+        return new MongoClient(url);
+      });
+
+    }
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
+      app.UsePathBase(new PathString("/api"));
+      app.UseHttpsRedirection();
+      app.UseCors("CorsPolicy");
+
+      app.UseMiddleware < CreateSession > ();
+
+      app.UseRouting();
+      app.UseEndpoints(endpoints => {
+        endpoints.MapControllers();
+      });
+    }
+  }
 }

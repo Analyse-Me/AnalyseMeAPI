@@ -11,12 +11,12 @@ using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
 
 namespace AnalyseMeAPI.Controllers {
-    [ApiController]
-    [Route("/")]
-    public class HomeController : ControllerBase {
-        [HttpGet]
-        public string GetHome() {
-            return "Api is working";
-        }
+  [ApiController]
+  [Route("/")]
+  public class HomeController: ControllerBase {
+    [HttpGet]
+    public string GetHome() {
+      return "Api is working";
     }
+  }
 }
