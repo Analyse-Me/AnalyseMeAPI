@@ -11,14 +11,8 @@ using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
 
 namespace AnalyseMeAPI.Controllers {
-
+  
   [ApiController]
-  [Route("/")]
-  public class HomeController: ControllerBase {
-    
-    [HttpGet]
-    public string GetHome() {
-      return "Api is working";
-    }
-  }
+  [Route("thinkers")]
+  public class ThinkersController: ControllerBase {}
 }

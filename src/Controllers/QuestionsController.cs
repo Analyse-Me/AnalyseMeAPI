@@ -11,14 +11,16 @@ using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
 
 namespace AnalyseMeAPI.Controllers {
+  
   [ApiController]
   [Route("questions")]
   public class QuestionsController: ControllerBase {
-    private readonly ILogger < QuestionsController > _logger;
+
+    private readonly ILogger < QuestionsController > Logger;
     private readonly QuestionsService QuestionsService;
 
-    public QuestionsController(ILogger < QuestionsController > logger, IMongoClient client) {
-      _logger = logger;
+    public QuestionsController(ILogger <QuestionsController> logger, IMongoClient client) {
+      Logger = logger;
       QuestionsService = new QuestionsService(client);
     }
 
@@ -44,15 +46,18 @@ namespace AnalyseMeAPI.Controllers {
 
     [HttpGet("economic_freedom_analysis")]
     public IEnumerable < Question < _Soulgraphy_EFA >> GetEconomicFreedomAnalysis() {
-        return QuestionsService.GetEconomicFreedomAnalysis();
-      }
-      [HttpGet("personal_freedom_analysis")]
+      return QuestionsService.GetEconomicFreedomAnalysis();
+    }
+
+    [HttpGet("personal_freedom_analysis")]
     public IEnumerable < Question < _Soulgraphy_PFA >> GetPersonalFreedomAnalysis() {
-        return QuestionsService.GetPersonalFreedomAnalysis();
-      }
-      [HttpGet("mypolitics")]
+      return QuestionsService.GetPersonalFreedomAnalysis();
+    }
+
+    [HttpGet("mypolitics")]
     public IEnumerable < Question < _MyPolitics >> GetMyPolitics() {
       return QuestionsService.GetMyPolitics();
     }
+
   }
 }

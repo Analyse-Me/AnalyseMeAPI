@@ -2,16 +2,16 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.Mvc;
 
 using MongoDB.Driver;
 
 using AnalyseMeAPI.Models;
 
 namespace AnalyseMeAPI.Services {
-  public class QuestionsService {
 
+  public class QuestionsService {
     private IMongoCollection < Question < _Compass >> DB_Compass;
     private IMongoCollection < Question < _8Values >> DB_8Values;
     private IMongoCollection < Question < _9Axes >> DB_9Axes;

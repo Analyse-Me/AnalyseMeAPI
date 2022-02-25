@@ -10,18 +10,17 @@ using MongoDB.Driver;
 
 using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
-using AnalyseMeAPI.Helpers;
 
 namespace AnalyseMeAPI.Controllers {
+
   [ApiController]
   [Route("results")]
   public class ResultsController: ControllerBase {
-
-    private readonly ILogger < ResultsController > _logger;
+    private readonly ILogger < ResultsController > Logger;
     private readonly ResultsService ResultsService;
 
     public ResultsController(ILogger < ResultsController > logger, IMongoClient client) {
-      _logger = logger;
+      Logger = logger;
       ResultsService = new ResultsService(client);
     }
 
@@ -52,13 +51,15 @@ namespace AnalyseMeAPI.Controllers {
 
     [HttpPost("economic_freedom_analysis")]
     public string PushEconomicFreedomAnalysis([FromBody] ResultRequest < _Soulgraphy_EFA > body) {
-        return ResultsService.PushEconomicFreedomAnalysis(body);
-      }
-      [HttpPost("personal_freedom_analysis")]
+      return ResultsService.PushEconomicFreedomAnalysis(body);
+    }
+    
+    [HttpPost("personal_freedom_analysis")]
     public string PushPersonalFreedomAnalysis([FromBody] ResultRequest < _Soulgraphy_PFA > body) {
-        return ResultsService.PushPersonalFreedomAnalysis(body);
-      }
-      [HttpPost("mypolitics")]
+      return ResultsService.PushPersonalFreedomAnalysis(body);
+    }
+    
+    [HttpPost("mypolitics")]
     public string PushMyPolitics([FromBody] ResultRequest < _MyPolitics > body) {
       return ResultsService.PushMyPolitics(body);
     }

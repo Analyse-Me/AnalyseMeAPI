@@ -24,9 +24,8 @@ namespace AnalyseMeAPI.Startup {
 
   public class App {
 
-    public IConfiguration Configuration {
-      get;
-    }
+    public IConfiguration Configuration;
+
     public App(IConfiguration configuration) {
       Configuration = configuration;
     }
@@ -42,12 +41,13 @@ namespace AnalyseMeAPI.Startup {
       });
 
       services.AddControllers();
+
       services.AddSingleton < IMongoClient, MongoClient > (s => {
         var url = s.GetRequiredService < IConfiguration > ()["DatabaseURL"];
         return new MongoClient(url);
       });
-
     }
+
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env) {
       app.UsePathBase(new PathString("/api"));
       app.UseHttpsRedirection();
