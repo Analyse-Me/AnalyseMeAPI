@@ -1,0 +1,631 @@
+[{
+"question": "Bardziej niepokojący jest ucisk ze strony korporacji niż rządu.",
+"effect": {
+"econ": 10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Obowiązkiem rządu jest interwencja gospodarcza w celu ochrony konsumentów.",
+"effect": {
+"econ": 10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": " Im wolniejszy rynek, tym wolniejsi ludzie.",
+"effect": {
+"econ": -10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Utrzymanie zrównoważonego budżetu jest ważniejsze niż zagwarantowanie dobrobytu wszystkim obywatelom.",
+"effect": {
+"econ": -10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Badania finansowane publiczne są skuteczniejsze niż te prowadzone prywatnie.",
+"effect": {
+"econ": 10,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Handel międzynarodowy przynosi więcej korzyści niż strat.",
+"effect": {
+"econ": -5,
+"dipl": 0,
+"govt": 10,
+"scty": 0
+}
+},
+{
+"question": "Od każdego według jego zdolności, każdemu według jego potrzeb.",
+"effect": {
+"econ": 10,
+"dipl": 0,
+"govt": 0,
+"scty": 5
+}
+},
+{
+"question": "Lepiej byłoby, gdyby wszystkie programy socjalne zostały zniesione na rzecz prywatnej działalności charytatywnej.",
+"effect": {
+"econ": -10,
+"dipl": 0,
+"govt": 0,
+"scty": -5
+}
+},
+{
+"question": "Aby polepszyć żywot biednych, powinniśmy podnieść podatki dla najbogatszych",
+"effect": {
+"econ": 10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Dziedziczenie jest uczciwą formą wzbogacenia się.",
+"effect": {
+"econ": -10,
+"dipl": 0,
+"govt": 0,
+"scty": -5
+}
+},
+{
+"question": "Obiekty użytku publicznego takie jak m.in drogi i elektrownie, powinny pozostać w rękach publicznych.",
+"effect": {
+"econ": 10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Nadmierna ingerencja rządu jest zagrożeniem dla gospodarki.",
+"effect": {
+"econ": -10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Ludzie, którzy są zdolni zapłacić, powinni mieć dostęp do lepszej ochrony zdrowia.",
+"effect": {
+"econ": -10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Dostęp do dobrej jakości edukacji jest podstawowym prawem każdego człowieka.",
+"effect": {
+"econ": 10,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Środki produkcji powinny kolektywnie należeć do robotników, którzy ich używają.",
+"effect": {
+"econ": 15,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "ONZ powinno zostać zniesione.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": -5,
+"scty": 0
+}
+},
+{
+"question": "Aby chronić nasz kraj, często nieunikniona jest zbrojna interwencja .",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": -10,
+"scty": 0
+}
+},
+{
+"question": "Popieram organizacje międzynarodowe, takie jak Unia Europejska.",
+"effect": {
+"econ": -5,
+"dipl": 10,
+"govt": 10,
+"scty": 5
+}
+},
+{
+"question": "To ważne, by utrzymywać naszą narodową suwerenność.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": -5,
+"scty": 0
+}
+},
+{
+"question": "Korzystniejszy dla ludzkości byłby światowy rząd.",
+"effect": {
+"econ": 0,
+"dipl": 15,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Powinniśmy dyplomatycznie rozwiązywać konflikty międzynarodowe, niżeli ograniczać się do używania siły.",
+"effect": {
+"econ": 0,
+"dipl": 10,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Wojny nie muszą być usprawiedliwiane przed innymi krajami.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": -10,
+"scty": 0
+}
+},
+{
+"question": "Wydatki na wojsko to strata pieniędzy.",
+"effect": {
+"econ": 0,
+"dipl": 10,
+"govt": 10,
+"scty": 0
+}
+},
+{
+"question": "Pomoc międzynarodowa jest stratą pieniędzy.",
+"effect": {
+"econ": -5,
+"dipl": -10,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Mój naród jest wielki.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Badania powinny być prowadzone na międzynarodową skalę.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Rządy powinny przejmować się także międzynarodową społecznością.",
+"effect": {
+"econ": 0,
+"dipl": 10,
+"govt": 5,
+"scty": 0
+}
+},
+{
+"question": "Nawet jeśli protestuję się przeciwko autorytarnemu rządowi, nie powinno się używać przemocy.",
+"effect": {
+"econ": 0,
+"dipl": 5,
+"govt": -5,
+"scty": 0
+}
+},
+{
+"question": "Moje wartości religijne powinny być rozprzestrzenione na jak największą skalę.",
+"effect": {
+"econ": 0,
+"dipl": -5,
+"govt": -10,
+"scty": -10
+}
+},
+{
+"question": "Wartości naszego narodu powinny być rozprzestrzenione na jak największą skalę.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": -10,
+"scty": 0
+}
+},
+{
+"question": "Przestrzeganie porządku i prawa jest ważne.",
+"effect": {
+"econ": 0,
+"dipl": -5,
+"govt": -10,
+"scty": -5
+}
+},
+{
+"question": "Ogół ludzkości zwykle podejmuje złe decyzje.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -10,
+"scty": 0
+}
+},
+{
+"question": "Wspomagane medycznie samobójstwo powinno być legalne.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 10,
+"scty": 0
+}
+},
+{
+"question": "Aby zapewnić nam ochronę przed aktami terroryzmu, konieczne jest poświęcenie niektórych wolności osobistych.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -10,
+"scty": 0
+}
+},
+{
+"question": "We współczesnym świecie niezbędna jest rządowa inwigilacja.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -20,
+"scty": 0
+}
+},
+{
+"question": "Samo istnienie państwa jest już uderzeniem w naszą wolność.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 25,
+"scty": 0
+}
+},
+{
+"question": "Ważne jest aby wspierać swój kraj, niezależnie od poglądów politycznych.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": -10,
+"scty": -5
+}
+},
+{
+"question": "Żadna władza nie powinna być niezaprzeczalna.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 10,
+"scty": 5
+}
+},
+{
+"question": "Społeczeństwo oparte na hierarchii to najlepszy model społeczeństwa.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -10,
+"scty": 0
+}
+},
+{
+"question": "Rząd powinien postępować według opinii większości, nawet jeśli się mylą.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 10,
+"scty": 0
+}
+},
+{
+"question": "Im silniejsze przywództwo, tym lepiej.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": -10,
+"scty": 0
+}
+},
+{
+"question": "Demokracja to coś więcej, niż proces podejmowania decyzji.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 10,
+"scty": 0
+}
+},
+	{
+"question": "Ochrona środowiska jest niezbędna w dzisiejszym świecie.",
+"effect": {
+"econ": 5,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Lepszy świat powstanie w wyniku automatyzacji, nauki i technologii.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Dzieci powinny być nauczane religijnych lub tradycyjnych wartości.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -10,
+"scty": -10
+}
+},
+{
+"question": "Sama w sobie tradycja nie ma żadnej wartości.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Religia powinna stanowić nierozerwalny element polityki rządu.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -10,
+"scty": -10
+}
+},
+{
+"question": "Związki wyznaniowe powinny być opodatkowane w taki sam sposób jak inne instytucje.",
+"effect": {
+"econ": 5,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Jednymi z największych zagrożeń dla naszego obecnego stylu życia są zmiany klimatyczne.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Narody powinny się zjednoczyć w walce z globalnym ociepleniem.",
+"effect": {
+"econ": 0,
+"dipl": 10,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Wiele lat temu społeczeństwo było znacznie lepsze.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": -10
+}
+},
+{
+"question": "To ważne, byśmy podtrzymywali tradycje naszych przodków.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": -10
+}
+},
+{
+"question": "To ważne, byśmy myśleli długoterminowo, daleko poza okres naszych żyć.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Działanie racjonalnie jest ważniejsze niż postępowanie zgodnie z naszą kulturą.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Zażywanie narkotyków powinno być zalegalizowane lub zdepenalizowane.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 10,
+"scty": 2
+}
+},
+{
+"question": "Małżeństwa jednopłciowe powinny być legalne.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 10,
+"scty": 10
+}
+},
+{
+"question": "Nie istnieją żadne wyższe czy też niższe kultury.",
+"effect": {
+"econ": 0,
+"dipl": 10,
+"govt": 5,
+"scty": 10
+}
+},
+{
+"question": "Seks przedmałżeński jest niemoralny.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -5,
+"scty": -10
+}
+},
+{
+"question": "Jeśli w ogóle mamy przyjmować imigrantów, koniecznie muszą przyjąć naszą kulturę i obyczaje.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -5,
+"scty": -10
+}
+},
+{
+"question": "W większości przypadków aborcja powinna być zakazana.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": -10,
+"scty": -10
+}
+},
+{
+"question": "Posiadanie broni bez zezwolenia powinno być legalne.",
+"effect": {
+"econ": 0,
+"dipl": -10,
+"govt": 10,
+"scty": 0
+}
+},
+{
+"question": "Popieram państwową, opłacaną z podatków, służbę zdrowia.",
+"effect": {
+"econ": 10,
+"dipl": 0,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Prostytucja powinna być nielegalna.",
+"effect": {
+"econ": 5,
+"dipl": 0,
+"govt": -10,
+"scty": -10
+}
+},
+{
+"question": "W dzisiejszym społeczeństwie ważne jest zachowanie wartości rodzinnych.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": -10
+}
+},
+{
+"question": "Ślepe podążanie za postępem jest ryzykowne.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": -10
+}
+},
+{
+"question": "Każda korzystna modyfikacja genetyczna zmieni nasze życia na lepsze, nawet w przypadku zmiany genotypu człowieka.",
+"effect": {
+"econ": 0,
+"dipl": 0,
+"govt": 0,
+"scty": 10
+}
+},
+{
+"question": "Powinniśmy otworzyć swoje granice na imigrantów.",
+"effect": {
+"econ": 0,
+"dipl": 10,
+"govt": 10,
+"scty": 0
+}
+},
+{
+"question": "Rządy nie powinny stawiać własnych obywateli nad obcych obywateli.",
+"effect": {
+"econ": 10,
+"dipl": 10,
+"govt": 0,
+"scty": 0
+}
+},
+{
+"question": "Niezależnie od czynników takich jak kultura lub seksualność, wszyscy ludzie powinni być traktowani równo.",
+"effect": {
+"econ": 10,
+"dipl": 10,
+"govt": 10,
+"scty": 10
+}
+},
+{
+"question": "Cele moje i mojej grupy są ważniejsze od celi wszystkich innych grup i osób.",
+"effect": {
+"econ": -5,
+"dipl": -10,
+"govt": -10,
+"scty": 0
+}
+}
+]

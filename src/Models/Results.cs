@@ -2,7 +2,7 @@ using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace AnalyseMeAPI.Models {
-  public class ResultRequest < T > {
+  public class ResultRequest<T> {
     public string quiz { get; set; }
     public T results { get; set; }
   }
@@ -25,7 +25,7 @@ namespace AnalyseMeAPI.Models {
     public string ResultID { get; set; }
   }
 
-  public class Result < T > {
+  public class Result<T> {
     public Result(T results, string ID, string QuizID) {
       this.results = results;
       this.ResultID = ID;

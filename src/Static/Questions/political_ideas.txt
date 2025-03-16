@@ -1,0 +1,3043 @@
+[{
+    "question": "Opieka zdrowotna to prawo każdego człowieka.",
+    "effect": {
+        "econ_soci": 5,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ziemia nie powinna być obiektem do kupna i sprzedaży.",
+    "effect": {
+        "econ_soci": 15,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo powinno walczyć z powstawaniem monopoli.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Konieczne jest, aby rząd ingerował w gospodarkę w celu ochrony konsumentów.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Wewnętrzne sprzeczności kapitalizmu są tak duże, że system ten wkrótce upadnie.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rosnące nierówności są jednym z największych zagrożeń dla świata.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 5,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Mieszkanie jest przyrodzonym prawem człowieka, a nie towarem.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Pracodawca nie jest wrogiem pracownika. Wrogiem jest inny pracownik stanowiący konkurencję na rynku pracy.",
+    "effect": {
+        "econ_soci": -10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo powinno zapewniać wszystkim artykuły wymagane do przetrwania jak np. jedzenie czy wodę.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Na służbę zdrowia popyt jest nieograniczony, dlatego niebezpieczne jest to zostawiać rynkowi.",
+    "effect": {
+        "econ_soci": 5,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nikt, nawet niepełnosprawni, nie powinni oczekiwać pomocy od państwa.",
+    "effect": {
+        "econ_soci": -5,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "W państwie powinna być stosowana jednolita forma płatności.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Brak gospodarki wolnorynkowej nieuchronnie doprowadzi do ograniczenia praw osobistych.",
+    "effect": {
+        "econ_soci": -10,
+        "econ_regu": -10,
+        "econ_prot": -10,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nacjonalizacja banków jest dobrym rozwiązaniem.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Od każdego według możliwości, dla każdego według potrzeb.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Środki produkcji powinny kolektywnie należeć do pracowników, którzy ich używają.",
+    "effect": {
+        "econ_soci": 15,
+        "econ_regu": 5,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo powinno zapewnić obywatelom stały dochód niezależnie od wydajności pracy.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Socjalizm bez wolności to niewola i brutalność. Wolność bez socjalizmu to system przywilejów i niesprawiedliwość.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nierówne relacje między właścicielami firm i ich pracownikami z natury stanowią wyzysk.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Emerytura to prywatna kwestia każdego obywatela i państwo nie powinno w to ingerować.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "W społeczeństwie istnieje konflikt klas, w którym jedna będzie dominować drugą. Rozwiązać go można tylko poprzez równość ekonomiczną.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Austriacka szkoła ekonomii, używająca inną metodologię niż inne szkoły ekonomiczne, w ogóle nie powinna być uznawana za naukę.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Dziedziczenie jest uzasadnioną przyczyną bogactwa.",
+    "effect": {
+        "econ_soci": -10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Majątki nie powinny być opodatkowane.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Bank centralny nie powinien istnieć.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Wysokości mandatów powinny być uzależnione od zarobków.",
+    "effect": {
+        "econ_soci": 5,
+        "econ_regu": 5,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Cła są dobrym sposobem, aby chronić miejsca pracy w moim kraju.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 5,
+        "econ_prot": 10,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Korzyści z wolnego handlu są większe niż szkody.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": -10,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Imigranci ekonomiczni są korzystni dla gospodarki.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": -10,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rząd powinien chronić krajowych przedsiębiorców przed zagraniczną konkurencją.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 10,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Własna waluta to podstawa suwerenności naszego kraju.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rząd powinien zwalczać różnice w płacach kobiet i mężczyzn.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Podatki to kradzież i nie powinny istnieć.",
+    "effect": {
+        "econ_soci": 15,
+        "econ_regu": 15,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Licencje, zezwolenia i związki zawodowe są niepotrzebnymi przeszkodami w prowadzeniu działalności gospodarczej.",
+    "effect": {
+        "econ_soci": -5,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Publicznie finansowane badania naukowe są lepsze od tych prowadzonych przez prywatne instytucje.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Bezrobocie jest skutkiem niewystarczającego popytu.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Co korzystne dla dobrze prosperujących przedsiębiorstw jest w efekcie korzystne dla nas wszystkich.",
+    "effect": {
+        "econ_soci": -10,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Każdy ma prawo dysponować swoim majątkiem jak chce, więc gry hazardowe powinny być legalne.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Należy zakazać szerzenia publicznie radykalnych, szkodliwych ideologii.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "O symbolach religijnych w szkołach i urzędach powinien decydować dyrektor lub właściciel.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 5,
+        "society_secu": 10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Stosowanie mowy nienawiści powinno być karane.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Obraza uczuć religijnych powinna być penalizowana.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": -10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Jeżeli małżeństwa państwowe istnieją, to powinny być dostępne dla par homoseksualnych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Pary LGBT powinny mieć równe prawa względem par heteroseksualnych, razem z adopcją dzieci.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Marihuana powinna być legalna.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Docelowo zalegalizowany powinien zostać każdy narkotyk.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Należy znieść recepty i pozwolić społeczeństwu kupować to, czego tylko zechcą.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Małżeństwa państwowe nie powinny istnieć.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 5,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Każdy powinien mieć prawo do posiadania broni.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rząd powinien mieć większe prawo do ingerencji w życie obywateli.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Moje ciało, moja sprawa.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ochrona przed terroryzmem poszła za daleko.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -5,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Inwigilacja obywateli jest konieczna.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Chcącemu nie dzieje się krzywda.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -5,
+        "econ_prot": 0,
+        "law_free": 20,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": -10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rząd jest zagrożeniem dla wolności.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo powinno odpowiadać jedynie za ochronę praw jednostki.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Autorytety są korzystne dla społeczeństwa.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": -10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Instytucja policji jest źródłem nieuzasadnionej opresji obywateli, dlatego powinna ona zostać gruntownie zreformowana lub zniesiona.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Każdy autorytet powinien być kwestionowany.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 5,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Szkoły nie powinny wymagać obowiązkowej obecności na lekcjach.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ludzie z wadami dziedzicznymi nie powinni mieć prawa do posiadania potomstwa.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ważne jest, aby dzieci uczyły się akceptowania dyscypliny.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Powinien istnieć ustalony, nienaruszalny program dla wszystkich szkół.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Studia powinny być finansowane przez państwo.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo powinno zakazać kierunków takich jak np. gender studies.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 5,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Jeżeli już istnieją uniwersytety państwowe, to powinny być one autonomiczne.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ci, którzy krytykują rząd, powinni zostać usunięci z kraju.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -5,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Policja powinna mieć więcej władzy oraz ochrony.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -5,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "To ważne, żeby utrzymywać prawo i porządek.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": -10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": -10,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rząd nie ma żadnego interesu w zaglądaniu do życia prywatnego większości ludzi.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Policja powinna być bardziej regulowana.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nie powinno być autorytetów bezspornych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Wolność ludzi powinna nie mieć granic.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Demokracja to de facto tyrania większości nad mniejszością, co jest jej istotną wadą",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": -10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo funkcjonowałoby lepiej, gdyby jedna osoba sprawowała władzę.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": -10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "System jednopartyjny jest korzystny.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": -10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Gdyby wybory zmieniały cokolwiek, to politycy dawno by je zdelegalizowali.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Wielkim plusem jednopartyjnego systemu jest brak dyskusji opóźniających postęp w systemach demokratycznych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": -10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Demokracja bezpośrednia jest najlepszą formą rządów.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ludzie sami powinni głosować nad każdym problemem.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 10,
+        "society_ind": 5,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "To ważne, by rząd postępował zgodnie z opinią większości, nawet jeśli jest błędna.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Im więcej ludzi jest pytanych, tym większa szansa na podjęcie najlepszej decyzji.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Każda osoba powinna posiadać jeden głos, który jest równy wobec głosów innych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Większość populacji podejmuje złe decyzje.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": -10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Naród musi bezwarunkowo słuchać przywództwa.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": -10,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Moralność jest subiektywna.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 5,
+        "society_prog": 0,
+        "society_secu": 10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nawet jeśli istnieje moralność obiektywna, człowiek nie może jej poznać.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Wyznaczanie wspólnych celów to najlepsza miara postępu społecznego.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": -15,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Dobro jednostki jest ważniejsze od dobra ogółu.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ostatecznie jesteśmy nieistotni jako jednostki, tylko nasze wysiłki na rzecz grupy mają trwały efekt.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Powinniśmy skupić się na jednostkach, a nie na tożsamościach grupowych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Żyj i pozwól żyć to najlepsza filozofia życiowa.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 10,
+        "state_demo": 0,
+        "society_ind": 10,
+        "state_peac": 5,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Każdy styl życia wpływa w jakiś sposób na społeczeństwo i powinien być odpowiednio potępiony lub zatwierdzony.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": 0,
+        "society_ind": -10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ograniczenie praw jednostki jest w porządku, jeśli społeczność na tym skorzysta.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": -10,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nie mamy prawa ingerować militarnie w innych państwach.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 10,
+        "state_glob": -5,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ważniejsze jest utrzymać pokojowe relacje niż rozwijać naszą siłę.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Służba wojskowa powinna być obowiązkowa.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Tylko ci, którzy służyli w wojsku powinni być uprawnieni do posiadania wpływu na to, kto jest u władzy.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": -10,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Wojna jest konieczna, żeby ekonomia dobrze się rozwijała.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": -5,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": -5,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Dyplomacja tylko szkodzi państwom.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 5,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Sojusze są ważne, żeby chronić państwo.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 10,
+        "state_glob": 10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "ONZ lub NATO powinno zaprowadzić demokrację w krajach niedemokratycznych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": 5,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 10,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Powinniśmy rozwijać własne wojsko zamiast skupiać się na sojuszach.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Silne wojsko daje nam wyższą pozycję wśród narodów.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo powinno dążyć do uzyskania utraconych na przestrzeni lat ziem.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -15,
+        "state_glob": -15,
+        "society_prog": -5,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Wszystko w państwie, nic poza państwem, nic przeciwko państwu.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": -10,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": -10
+    }
+}, {
+    "question": "Nikt nie wybiera swojego kraju urodzenia, więc nie ma żadnego powodu do dumy z pochodzenia.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 5,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Jednolitość rasowa korzystnie wpływa na społeczeństwo.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": -5,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Mniejszości etniczne trudniej asymilują się z naszą kulturą, więc powinno ich być jak najmniej.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": -5,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Unia Europejska powinna mieć mniejszy wpływ na państwa członkowskie.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo nie powinno przyjmować uchodźców z krajów obcych kulturowo.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Unia Europejska powinna być jednym superpaństwem.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": -10
+    }
+}, {
+    "question": "Ważne jest zachowanie suwerenności naszego kraju.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "ONZ nie powinna istnieć.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Zawsze będę stał po stronie mojego kraju, niezależnie od tego, czy ma rację.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Zjednoczony rząd światowy byłby korzystny dla ludzkości.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": -10
+    }
+}, {
+    "question": "Moje państwo powinno trzymać się z dala od relacji międzynarodowych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Pomoc międzynarodowa to strata pieniędzy.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nie powinno być praw międzynarodowych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -10,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 5
+    }
+}, {
+    "question": "Kobiety mają równe prawa, więc protesty feministek nie mają sensu.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Aborcja to morderstwo.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Różnice w rolach płciowych mogą być wytłumaczone biologią.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Klauzula sumienia powinna zostać zniesiona.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Matki mogą robić karierę, ale ich głównym obowiązkiem jest zajmowanie się domem.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Tradycja po prostu przeszkadza w postępie technologicznym.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Gonić postęp za każdą cenę jest niebezpieczne.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 5,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Starsi w społeczeństwie znają dla niego najlepszą drogę.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": -5,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Internet powinien zostać zakazany.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 5,
+        "law_free": -10,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Społeczeństwo powinno kultywować dawne tradycje.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": -5,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Tradycja jest ważna w spajaniu narodu.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": -5,
+        "state_peac": 0,
+        "state_glob": -5,
+        "society_prog": -10,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Kościół powinien zostać opodatkowany.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nie można być moralnym bedąc innej religii niż moja.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": -10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rząd nie powinien finansować żadnych organizacji religijnych w żaden sposób.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": -10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Każda religia musi być postrzegana równo przez rząd.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Musi istnieć rozdział pomiędzy kościołem i państwem.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Dzieci powinny być edukowane w wartościach religijych.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": -10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Moje wartości religijne powinny być rozprzestrzenione tak bardzo, jak możliwe.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -5,
+        "state_glob": 0,
+        "society_prog": -10,
+        "society_secu": -10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Większość złych rzeczy zdarzających się na świecie jest spowodowana przez nasze oddalanie się od religii.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -5,
+        "society_secu": -10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rząd ma prawo uprzywilejować jedną religię.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": -5,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": -5,
+        "society_secu": -10,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "W obliczu obecnego zagrożenia klimatycznego koniecznie dla ludzkości jest znaczące ograniczenie produkcji i spożycia mięsa.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 5,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Należy walczyć z globalnym ociepleniem.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Należy zakazać wydobycia węgla.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Nasza energia powinna pochodzić z odnawialnych źródeł energii.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Gdyby pojawiła się możliwość czerpania energii z fuzji jądrowych byłoby to preferowane przeze mnie źródło energii.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Człowiek przywiązuje obecnie zbyt dużą wagę do ochrony środowiska.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": -10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Powinny istnieć surowe prawa związane z ekologią oraz emisją CO2 i gazów cieplarnianych",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Państwo powinno dofinansowywać zakup przedmiotów pro-ekologicznych w celu zachęcenia do walki z globalnym ociepleniem.",
+    "effect": {
+        "econ_soci": 10,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Zwierzęta powinny mieć takie same prawa jak ludzie.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 10,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Hodowla zwierząt na futro powinna być zakazana.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 10,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 5,
+        "society_secu": 0,
+        "law_ecol": 10,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Cel uświęca środki.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 15,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rewolucja to najlepszy sposób na osiągnięcie idealnego społeczeństwa.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 10,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Negatywne konsekwencje rewolucji przeważają na ogół nad korzyściami.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": -10,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Rewolucyjna przemoc jest dopuszczalna, o ile końcowy wynik jest pozytywny.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 10,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Narody uciskane mają prawo wziąć udział w gwałtownym powstaniu, gdy wszystkie inne możliwości zostały wyczerpane.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": -5,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 10,
+        "law_reso": 0,
+        "state_fede": 0
+    }
+}, {
+    "question": "Oko za oko uczyni cały świat ślepym.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 5,
+        "state_fede": 0
+    }
+}, {
+    "question": "Ważniejsza od odbycia kary jest resocjalizacja.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 10,
+        "state_fede": 0
+    }
+}, {
+    "question": "Więźniowie powinni pracować na swoje utrzymanie podczas odbywania wyroku.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": -5,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": -5,
+        "state_fede": 0
+    }
+}, {
+    "question": "Kara śmierci powinna być stosowana za najgorsze wykroczenia.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": -10,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": -10,
+        "state_fede": 0
+    }
+}, {
+    "question": "Stratą czasu jest próba resocjalizacji niektórych przestępców.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": -10,
+        "state_fede": 0
+    }
+}, {
+    "question": "Prawa stanowe oraz lokalne powinny mieć pierwszeństwo nad prawami narodowymi.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 10
+    }
+}, {
+    "question": "Ogólnokrajowy rząd nie jest w stanie zrozumieć, czego ludzie potrzebują.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 10
+    }
+}, {
+    "question": "Ludzie powinni uważać się za obywateli swojego kraju, a nie stanu.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": -10
+    }
+}, {
+    "question": "Władze lokalne powinny posiadać więcej uprawnień, niż obecnie.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 10
+    }
+}, {
+    "question": "Prawa powinny się różnić w zależności od regionu oraz kultury w granicach kraju.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 5,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 10
+    }
+}, {
+    "question": "Władze lokalne często zajmują się problemami, którymi rząd ogólnokrajowy bez ich pomocy nigdy by się nie zainteresował.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": 10
+    }
+}, {
+    "question": "Kraj nie może funkcjonować bez ogólnokrajowego rządu.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": 0,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": -10
+    }
+}, {
+    "question": "Jest wiele problemów, których nie ma sensu zawierzać władzom lokalnym.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": 0,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": -10
+    }
+}, {
+    "question": "Rząd ogólnokrajowy musi być silny, żeby adekwatnie chronić wszystkich swoich obywateli.",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -10,
+        "state_demo": -5,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": -10
+    }
+}, {
+    "question": "Silne władze stanowe osłabiają kraj",
+    "effect": {
+        "econ_soci": 0,
+        "econ_regu": 0,
+        "econ_prot": 0,
+        "law_free": -5,
+        "state_demo": -5,
+        "society_ind": 0,
+        "state_peac": 0,
+        "state_glob": 0,
+        "society_prog": 0,
+        "society_secu": 0,
+        "law_ecol": 0,
+        "society_revo": 0,
+        "law_reso": 0,
+        "state_fede": -10
+    }
+}]

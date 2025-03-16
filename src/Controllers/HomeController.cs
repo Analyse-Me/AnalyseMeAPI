@@ -14,8 +14,8 @@ namespace AnalyseMeAPI.Controllers {
 
   [ApiController]
   [Route("/")]
-  public class HomeController: ControllerBase {
-    
+  public class HomeController : ControllerBase {
+
     [HttpGet]
     public string GetHome() {
       return "Api is working";

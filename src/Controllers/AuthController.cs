@@ -11,8 +11,8 @@ using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
 
 namespace AnalyseMeAPI.Controllers {
-  
+
   [ApiController]
   [Route("auth")]
-  public class AuthController: ControllerBase {}
+  public class AuthController : ControllerBase { }
 }

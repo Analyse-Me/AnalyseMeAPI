@@ -1,0 +1,1520 @@
+[{"question": "Pracownicy powinni współdecydować o swoim miejscu pracy.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 10,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Ubezpieczenie i opieka zdrowotna to prawo każdego pracownika.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 2,
+        "tax_work": 2,
+        "tax_weal": 2,
+        "reg_busi": 0,
+        "reg_labo": 5,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Płaca minimalna skutecznie zapobiega biedzie robotników.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 10,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": -10,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Brak regulacji względem pracowników i zatrudnienia to pierwszy krok do wyzysku.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 10,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 15,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Zakłady pracy powinny być własnością spółdzielczą.",
+    "effect": {
+        "org_prop": -20,
+        "org_law": 0,
+        "org_hier": 20,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Sanepid powinien kontrolować jakość lokali i usług.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": -10,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno karać za niezgodność z opisem sprzedanego produktu.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": -10,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno zwalczać monopole.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": -10,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno wprowadzać ceny maksymalne na niektóre produkty.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -5,
+        "reg_labo": 0,
+        "reg_mone": -20,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Sądy zawsze powinny kierować się dobrem konsumentów.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": -10,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Wolny rynek to najlepszy system gospodarczy.",
+    "effect": {
+        "org_prop": 10,
+        "org_law": 10,
+        "org_hier": -10,
+        "tax_prog": -10,
+        "tax_arti": -10,
+        "tax_work": -10,
+        "tax_weal": -10,
+        "reg_busi": 10,
+        "reg_labo": 10,
+        "reg_mone": 10,
+        "reg_bure": 10,
+        "reg_ecol": 10,
+        "market_trad": 10,
+        "market_auta": 10,
+        "market_inve": 10,
+        "market_bank": 10
+    }
+}, {
+    "question": "Nie ma wolności bez wolnego rynku.",
+    "effect": {
+        "org_prop": 10,
+        "org_law": 10,
+        "org_hier": -10,
+        "tax_prog": -10,
+        "tax_arti": -10,
+        "tax_work": -10,
+        "tax_weal": -10,
+        "reg_busi": 10,
+        "reg_labo": 10,
+        "reg_mone": 10,
+        "reg_bure": 10,
+        "reg_ecol": 10,
+        "market_trad": 10,
+        "market_auta": 10,
+        "market_inve": 10,
+        "market_bank": 10
+    }
+}, {
+    "question": "Produkowanie przez kilka firm tego samego produktu jest nieefektywne.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": -10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Energetyka i banki nigdy nie powinny być własnością prywatną.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": -10
+    }
+}, {
+    "question": "Socjalizm zawsze kończy się biedą.",
+    "effect": {
+        "org_prop": 10,
+        "org_law": 10,
+        "org_hier": -10,
+        "tax_prog": -10,
+        "tax_arti": -10,
+        "tax_work": -10,
+        "tax_weal": -10,
+        "reg_busi": 10,
+        "reg_labo": 10,
+        "reg_mone": 10,
+        "reg_bure": 10,
+        "reg_ecol": 10,
+        "market_trad": 10,
+        "market_auta": 10,
+        "market_inve": 10,
+        "market_bank": 10
+    }
+}, {
+    "question": "Jeśli nie ma własności prywatnej nie ma motywacji do pracy czy bycia przedsiębiorczym.",
+    "effect": {
+        "org_prop": 10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo najlepiej wie co i ile powinno być wyprodukowane.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": -10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Popieranie socjalizmu w w dzisiejszych czasach jest naiwne.",
+    "effect": {
+        "org_prop": 10,
+        "org_law": 10,
+        "org_hier": -10,
+        "tax_prog": -10,
+        "tax_arti": -10,
+        "tax_work": -10,
+        "tax_weal": -10,
+        "reg_busi": 10,
+        "reg_labo": 10,
+        "reg_mone": 10,
+        "reg_bure": 10,
+        "reg_ecol": 10,
+        "market_trad": 10,
+        "market_auta": 10,
+        "market_inve": 10,
+        "market_bank": 10
+    }
+}, {
+    "question": "Bogaci powinni płacić większe podatki.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 10,
+        "tax_arti": 0,
+        "tax_work": 5,
+        "tax_weal": 10,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "dresja podatkowa skutecznie zapobiega gigantycznym zarobkom dyrektorów.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 10,
+        "tax_prog": 10,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Podatek dochodowy to kara za prace.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": -10,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Spadki powinny trafiać do państwa lub być wysoko opodatkowane.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 10,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Przedsiębiorca sam decyduje o swoich pieniądzach i nie powinien mieć obowiązku płacenia składek. ",
+    "effect": {
+        "org_prop": 10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": -10,
+        "tax_work": -10,
+        "tax_weal": -10,
+        "reg_busi": 10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Podatek VAT od żywności powinien być jak najmniejszy.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": -10,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Należy wprowadzić pensję maksymalną.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 10,
+        "tax_prog": 10,
+        "tax_arti": 0,
+        "tax_work": 10,
+        "tax_weal": 0,
+        "reg_busi": 10,
+        "reg_labo": 10,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Najbogatsi najczęściej odziedziczyli swoje majątki, wiec cześć powinni oddać państwu.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 10,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Aby obniżyć koszty życia należy obniżyć VAT.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": -10,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Podatek od gruntu jest dobry, ponieważ zniechęca do marnotrawstwa zasobu jakim jest ziemia.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 10,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Wysokie podatki od dochodów negatywnie wpływają na rozwój gospodarczy państwa.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": -10,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Podatki progresywne zniechęcają do uczciwej pracy i zachęcają do ukrywania dochodów.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": -10,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Zbyt wysokie stawki podatku dochodowego dla najbogatszych działają niekorzystnie dla całego społeczeństwa.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": -10,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Podatek liniowy jest korzystny tylko dla bogatych.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 10,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Podatki od ziemi negatywnie wpływają na koszty wynajmu i użytkowania nieruchomości.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": -10,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Wysokie podatki od ziemi odstraszają inwestorów i budowniczych.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": -10,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 5,
+        "market_bank": 0
+    }
+}, {
+    "question": "Przyjazny przedsiębiorcom CIT jest również korzystny dla państwa.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": -10,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Walka z korporacjami i wyzyskiem przez opodatkowanie szkodzi też małym firmom i pracownikom.",
+    "effect": {
+        "org_prop": 10,
+        "org_law": 10,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": -5,
+        "tax_work": -5,
+        "tax_weal": -5,
+        "reg_busi": 10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno przede wszystkim pozwolić działać przedsiębiorcom.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 2,
+        "tax_weal": 2,
+        "reg_busi": 10,
+        "reg_labo": 10,
+        "reg_mone": 5,
+        "reg_bure": 10,
+        "reg_ecol": 10,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 10,
+        "market_bank": 0
+    }
+}, {
+    "question": "Najlepiej, aby licencje i zezwolenia wymagane przez państwo do rozpoczęcia prowadzenia działalności gospodarczej zostały ograniczone do niezbędnego minimum lub zlikwidowane.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Przedsiębiorca nie odgrywa istotnej roli w społeczeństwie, dlatego bardziej niż na swobodzie prowadzenia działalności gospodarczej państwo powinno się skupić na rozbudowywaniu praw pracowniczych.",
+    "effect": {
+        "org_prop": -2.137,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -7,
+        "reg_labo": -15,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Regulacje tylko zmniejszają pozytywne skutki kapitalizmu.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 10,
+        "reg_labo": 10,
+        "reg_mone": 10,
+        "reg_bure": 10,
+        "reg_ecol": 10,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo musi regulować takie kwestie jak np. wprowadzanie nowych lekarstw na rynek.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": -15,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno regulować liczbę godzin które przepracowuje pracownik, aby zapobiec wyzyskowi ze strony pracodawcy.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": -10,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Minimalne wynagrodzenie powinno być stale podnoszone, aby zapewnić pracownikom godny byt.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": -10,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Kodeks pracy nie powinien istnieć, lub powinien zostać ograniczony do minimum.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 10,
+        "reg_mone": 0,
+        "reg_bure": 10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo wraz z rozwojem technologii stopniowo powinno zwiększać swoje regulacje dotyczące ilości pracy.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": -10,
+        "reg_mone": 0,
+        "reg_bure": -5,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Wolny rynek i kapitalizm zawodzą w kwestii praw pracowniczych.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 10,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": -10,
+        "reg_mone": 0,
+        "reg_bure": -10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Zamiast usztywniania i regulowania umów o pracę powinniśmy je uwolnić i uelastycznić.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 10,
+        "reg_mone": 0,
+        "reg_bure": 10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo musi mieć monopol na emisję pieniądza.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": -10,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Luźna polityka monetarna jest korzystna dla gospodarki.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": -10,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Nie ma nic złego w inflacji spowodowanej nadmierną emisją pieniądza.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": -10,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Bank centralny pełni istotną rolę w regulacji gospodarki i powinien istnieć, aby m.in. nadzorować banki komercyjne.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": -10,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": -10
+    }
+}, {
+    "question": "Polityka socjalna państwa powinna być liberalna i ograniczona.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": -5,
+        "tax_work": -5,
+        "tax_weal": -5,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 10,
+        "reg_bure": 10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno wydawać pieniądze w celu tworzenia nowych miejsc pracy.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 10,
+        "tax_prog": 0,
+        "tax_arti": 5,
+        "tax_work": 5,
+        "tax_weal": 5,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": -10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Wolny rynek często zawodzi, więc państwo potrzebuje dużej ilości urzędników, aby go wyregulować.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 20,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Większa liczba urzędników jest dobra, bo stwarza miejsca pracy.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 2,
+        "tax_work": 2,
+        "tax_weal": 2,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno regulować jak największą część gospodarki, aby polepszać wyniki i wspomagać rozwój gospodarczy.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": -10,
+        "reg_busi": -10,
+        "reg_labo": -10,
+        "reg_mone": -10,
+        "reg_bure": -10,
+        "reg_ecol": -10,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": -10
+    }
+}, {
+    "question": "Generalnie rzecz biorąc, urzędnik wyda pieniądze bardziej efektywnie od prywatnego przedsiębiorcy.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 5,
+        "tax_work": 5,
+        "tax_weal": 5,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": -10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Silne państwo i rozwinięta biurokracja stwarza lepsze warunki do korupcji.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno regulować rynek, aby zapobiec katastrofie klimatycznej.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": -10,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo powinno nakładać specjalne regulacje na producentów mięsa w celu zmniejszenia jego spożycia.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": -10,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Powinny istnieć ścisłe regulacje dot m.in. spalania gazów cieplarnianych.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": -10,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Nie da się uchronić ludzi przed kryzysem klimatycznym bez regulacji państwa.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": -10,
+        "reg_ecol": -10,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Cła są dobrym sposobem aby chronić lokalne firmy i przedsiębiorstwa.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": -10,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Wysokie cła uderzają głównie w konsumentów.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 10,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Państwo nie powinno ograniczać importu z zagranicy.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 10,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Wojny handlowe i ustawianie wysokich ceł to duża przeszkoda dla wolnego rynku.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 10,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Działalność zagranicznych firm i korporacji powinna być surowo regulowana.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": -10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": -10,
+        "market_bank": 0
+    }
+}, {
+    "question": "Należy opodatkować wielkie korporacje.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 10,
+        "tax_arti": 5,
+        "tax_work": 5,
+        "tax_weal": 5,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Należy oszczędzać zasoby, które w przyszłości mogą się skończyć.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": -5,
+        "market_auta": -10,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Gospodarka naszego państwa powinna być samowystarczalna.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": -10,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Nie ma nic złego w uzależnieniu ekonomicznym od innego państwa, jeżeli jest to korzystne dla mieszkańców obu krajów.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 15,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Zamiast importować towary powinniśmy wytwarzać je u siebie.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": -10,
+        "market_auta": -10,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Banki powinny być znacjonalizowane.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": -10
+    }
+}, {
+    "question": "Banki komercyjne powinny być zlikwidowane na rzecz jednego państwowego banku.",
+    "effect": {
+        "org_prop": -10,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": -10,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 0,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": -10
+    }
+}, {
+    "question": "Banki, które są na granicy upadłości powinny być ratowane przez państwo.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 2,
+        "tax_work": 2,
+        "tax_weal": 2,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": -5,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 0
+    }
+}, {
+    "question": "Działalność banków nie powinna być regulowana przez państwo.",
+    "effect": {
+        "org_prop": 0,
+        "org_law": 0,
+        "org_hier": 0,
+        "tax_prog": 0,
+        "tax_arti": 0,
+        "tax_work": 0,
+        "tax_weal": 0,
+        "reg_busi": 0,
+        "reg_labo": 0,
+        "reg_mone": 0,
+        "reg_bure": 10,
+        "reg_ecol": 0,
+        "market_trad": 0,
+        "market_auta": 0,
+        "market_inve": 0,
+        "market_bank": 15
+    }
+}]

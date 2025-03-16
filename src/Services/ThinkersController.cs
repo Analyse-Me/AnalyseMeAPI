@@ -11,5 +11,5 @@ using AnalyseMeAPI.Models;
 
 namespace AnalyseMeAPI.Services {
 
-  public class ThinkersService {}
+  public class ThinkersService { }
 }

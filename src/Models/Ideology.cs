@@ -2,7 +2,7 @@ using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace AnalyseMeAPI.Models {
-  public class Ideology < T > {
+  public class Ideology<T> {
 
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]

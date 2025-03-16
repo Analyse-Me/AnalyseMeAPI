@@ -11,8 +11,8 @@ using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
 
 namespace AnalyseMeAPI.Controllers {
-  
+
   [ApiController]
   [Route("thinkers")]
-  public class ThinkersController: ControllerBase {}
+  public class ThinkersController : ControllerBase { }
 }

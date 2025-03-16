@@ -11,8 +11,8 @@ using AnalyseMeAPI.Models;
 using AnalyseMeAPI.Services;
 
 namespace AnalyseMeAPI.Controllers {
-  
+
   [ApiController]
   [Route("parties")]
-  public class PartiesController: ControllerBase {}
+  public class PartiesController : ControllerBase { }
 }
